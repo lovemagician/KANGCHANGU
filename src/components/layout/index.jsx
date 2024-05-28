@@ -1,8 +1,9 @@
+import "./index.css";
 import { Outlet } from "react-router-dom";
 
 function Layout() {
   return (
-    <div>
+    <div className="wrapper">
       <Outlet />
     </div>
   );
