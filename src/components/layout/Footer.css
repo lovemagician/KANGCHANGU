@@ -1,8 +1,11 @@
 .icons {
+  width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 100%;
+  gap: 5px;
+  margin-top: auto;
+  height: auto;
 }
 
 .icons a {
