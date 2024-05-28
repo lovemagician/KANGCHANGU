@@ -6,7 +6,7 @@ function Home() {
   return (
     <>
       <Navbar />
-      <div>
+      <div className="main">
         <img className="mainImage" src="/images/KANGCHANGU.jpg" alt="강찬구" />
         <span>안녕하세요!</span>
       </div>
