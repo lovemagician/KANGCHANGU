@@ -1,1 +1,11 @@
 @import "./reset.css";
+
+body {
+  background-color: #b0b0b0;
+  background-image: url("/images/background.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  height: 100vh;
+}
