@@ -136,3 +136,7 @@ a:hover,
 a:active {
   text-decoration: none;
 }
+a:visited {
+  text-decoration: none;
+  color: white;
+}
