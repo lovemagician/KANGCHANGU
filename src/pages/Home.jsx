@@ -5,7 +5,10 @@ function Home() {
   return (
     <>
       <Navbar />
-      <div>HOME</div>
+      <div>
+        <img style={{ width: "100px" }} src="/images/KANGCHANGU.jpg" alt="강찬구" />
+        <span>안녕하세요!</span>
+      </div>
       <Footer />
     </>
   );
