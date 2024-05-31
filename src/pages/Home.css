@@ -4,7 +4,8 @@
   align-items: center;
   justify-content: center;
   flex: 1;
-  translate: 0 15px;
+  translate: 0 30px;
+  margin-bottom: 45px;
 }
 
 .main_wrapper {
