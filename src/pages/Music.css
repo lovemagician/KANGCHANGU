@@ -8,6 +8,11 @@
 
 .albumInfo {
   width: 360px;
+  margin-bottom: 15px;
+}
+
+.albumInfo:last-child {
+  margin-bottom: 0px;
 }
 
 .albumTitle {
