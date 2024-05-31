@@ -10,3 +10,16 @@
   gap: 20px;
   font-size: 20px;
 }
+
+.navbar_list {
+  box-sizing: border-box;
+  transition: all 0.5s linear;
+}
+
+.navbar_list:hover {
+  color: gold;
+}
+
+.navbar_list:focus {
+  outline: solid 1px white;
+}
