@@ -1,0 +1,10 @@
+@import "./reset.css";
+
+body {
+  background-color: #b0b0b0;
+  background-image: url("/images/background.webp");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  min-width: 320px;
+}
