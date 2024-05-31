@@ -3,3 +3,14 @@ body,
 #root {
   height: 100%;
 }
+
+@font-face {
+  font-family: "neoDunggeunmo";
+  src: url("/fonts/neodgm.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "neoDunggeunmo", sans-serif;
+}
