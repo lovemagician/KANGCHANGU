@@ -1,0 +1,26 @@
+.footer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  gap: 5px;
+  margin-top: auto;
+  translate: -5px -5px;
+  height: auto;
+  font-size: 12px;
+  letter-spacing: 5px;
+}
+
+.footer a {
+  width: 32px;
+  transition: all 0.5s linear;
+}
+
+.footer a img {
+  display: block;
+  width: 100%;
+}
+
+.footer a:focus {
+  outline: solid 1px white;
+}

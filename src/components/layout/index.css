@@ -1,0 +1,15 @@
+.wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  /* padding: 0px 500px; */
+}
+
+.wrapper {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+  overflow-y: scroll;
+}
+.wrapper::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera*/
+}

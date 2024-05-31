@@ -1,0 +1,27 @@
+.pictureWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  translate: 0 30px;
+}
+
+.container {
+  box-sizing: border-box;
+  width: 360px;
+  /* height: 360px; */
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 5px;
+}
+
+.container div {
+  cursor: pointer;
+}
+
+.container div img {
+  display: block;
+  height: 116.66px;
+  object-fit: cover;
+}

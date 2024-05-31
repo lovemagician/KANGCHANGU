@@ -1,0 +1,32 @@
+.musicWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  translate: 0 30px;
+}
+
+.albumInfo {
+  width: 360px;
+}
+
+.albumTitle {
+  font-size: 18px;
+  margin-bottom: 1px;
+}
+
+.releaseDate {
+  font-size: 12px;
+}
+
+.trackList {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.credits {
+  font-size: 14px;
+}
+
+.youtube {
+  margin-bottom: 5px;
+}
