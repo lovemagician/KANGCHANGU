@@ -12,7 +12,7 @@ function Footer() {
           <img src="/images/soundcloud_icon.svg" alt="soundcloud" />
         </a>
         <a href="https://www.instagram.com/rkdcksrn/" target="_blank">
-          <img src="/images/Instagram_icon.png" alt="instagram" />
+          <img src="/images/Instagram_icon.webp" alt="instagram" />
         </a>
       </footer>
     </>
