@@ -1,10 +1,22 @@
 .main {
   display: flex;
   flex-direction: column;
+  align-items: center;
   flex: 1;
 }
 
-.mainImage {
+.mainImageBefore,
+.mainImageAfter {
   min-width: 300px;
-  width: 300px;
+  width: 50%;
+}
+
+.mainImageAfter {
+  opacity: 0;
+  position: absolute;
+  transition: opacity 0.5s linear;
+}
+
+.mainImageAfter:hover {
+  opacity: 1;
 }
