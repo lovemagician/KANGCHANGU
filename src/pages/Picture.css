@@ -1,0 +1,16 @@
+.pictureWrapper {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 360px;
+  padding: 5px;
+  translate: 0 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 5px;
+}

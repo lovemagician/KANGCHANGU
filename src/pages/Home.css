@@ -4,12 +4,13 @@
   align-items: center;
   justify-content: center;
   flex: 1;
+  translate: 0 15px;
 }
 
 .mainImageBefore,
 .mainImageAfter {
   min-width: 300px;
-  width: 50%;
+  width: 360px;
 }
 
 .mainImageAfter {

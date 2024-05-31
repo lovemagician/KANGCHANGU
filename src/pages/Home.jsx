@@ -7,8 +7,8 @@ function Home() {
     <>
       <Navbar />
       <div className="main">
-        <img className="mainImageBefore" src="/images/cover_before.jpg" alt="메인 이미지" />
-        <img className="mainImageAfter" src="/images/cover_after.jpg" alt="메인 이미지" />
+        <img className="mainImageBefore" src="/images/cover_before.webp" alt="메인 이미지" />
+        <img className="mainImageAfter" src="/images/cover_after.webp" alt="메인 이미지" />
         <span></span>
       </div>
       <Footer />
